@@ -1,0 +1,6 @@
+@import "base";
+@import "components";
+@import "utilities";
+.container {
+  @apply mx-auto px-4 max-w-[1280px] sm:max-w-[768px];
+}
